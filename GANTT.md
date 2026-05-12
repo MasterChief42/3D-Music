@@ -15,7 +15,8 @@ section 3D Elevation Models
     Design Gulf DEM STL with isobaths, RAFOS floats        :gulfdesign2, after qgis tongadesign gulfdesign, 3d
 section Sensors
     Order Parts :done, order, 2026-05-11, 1d
-    Test OpenOBS board and VCNL4010: 2026-
+    Test OpenOBS board and VCNL4010:obstest, 2026-05-13, 1d
+    Pot OBS Sensors in PETG: obspot, after printheads, 1d
 section Solenoids
     Receive parts :milestone, receive, 2026-05-15, 1d
     Test MOSFET driver: driver, 2026-05-18, 2d
