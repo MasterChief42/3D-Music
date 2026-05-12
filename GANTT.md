@@ -10,7 +10,7 @@ section 3D Printing
     Print Gulf DEM with RAFOS floats: gulfprint2, after tongaprint gulfdesign2, 2d
 section 3D Elevation Models
     Develop QGIS DEM Procedure: qgis, 2026-05-12, 2d
-    Design Tonga DEM STL        :tongadesign, after qgis, 1d
+    Design Tonga DEM STL        :done, tongadesign, 2026-05-12, 1d
     Design Gulf DEM STL with isobaths        :gulfdesign, after qgis tongadesign, 1d
     Design Gulf DEM STL with isobaths, RAFOS floats        :gulfdesign2, after qgis tongadesign gulfdesign, 3d
 section Sensors
