@@ -7,7 +7,7 @@ section 3D Printing
     Develop QGIS DEM Procedure: qgis, 2026-05-12, 2d
     Get Mercury Working: HG, 2026-05-12, 7d
     Design Tonga DEM STL        :tongadesign, after qgis, 1d
-    Print Tonga DEM: tongaprint, after tongadesign
+    Print Tonga DEM: tongaprint, after tongadesign, 2d
 section Sensors
     Order Parts :done, order, 2026-05-11, 1d
 section Solenoids
