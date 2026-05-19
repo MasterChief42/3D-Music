@@ -5,11 +5,11 @@ gantt
 section 3D Printing
     Install Orca:done, Orca, 2026-05-12, 1d
     Get Mercury Working: HG, 2026-05-12, 7d
-    Print Tonga DEM: tongaprint, after tongadesign, 2d
-    Print Gulf DEM: gulfprint, after tongaprint gulfdesign, 2d
+    Print Tonga DEM: done, tongaprint, after tongadesign, 2d
+    Print Gulf DEM: done, gulfprint, after tongaprint gulfdesign, 2d
     Print Gulf DEM with RAFOS floats: gulfprint2, after tongaprint gulfdesign2, 2d
 section 3D Elevation Models
-    Develop QGIS DEM Procedure: qgis, 2026-05-12, 2d
+    Develop QGIS DEM Procedure: done, qgis, 2026-05-12, 2d
     Design Tonga DEM STL        :done, tongadesign, 2026-05-12, 1d
     Design Gulf DEM STL with isobaths        :gulfdesign, after qgis tongadesign, 1d
     Design Gulf DEM STL with isobaths, RAFOS floats        :gulfdesign2, after qgis tongadesign gulfdesign, 3d
